@@ -1,0 +1,21 @@
+.member_profile{
+  border: 5px solid goldenrod;
+  background-color: black;
+ color: white;
+  width: 320px;
+  height: 300px;
+  padding: 20px;
+  border-radius: 10px;
+  
+}
+ .main{
+  display: flex;
+  justify-content: space-around;
+
+ }
+ .heading{
+  background-color: black;
+  color: gold;
+  padding: 10px;
+  text-align: center;
+ }
